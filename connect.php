@@ -1,5 +1,5 @@
 <?php
-$servername = "tcp:rafflex.database.windows.net,1433";
+$servername = "localhost";
 $username = "rafflex";
 $password = "RaffleTest2017";
 $databasename = "rafflex";
