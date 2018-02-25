@@ -1,6 +1,6 @@
 <?php
-$servername = "rafflex.database.windows.net";
-$username = "rafflex@rafflex";
+$servername = "raffledraw-mysqldbserver.mysql.database.azure.com";
+$username = "raffledbuser@raffledraw-mysqldbserver";
 $password = "RaffleTest2017";
 $databasename = "raffletestdb";
 // Create connection
