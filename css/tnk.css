@@ -1,0 +1,26 @@
+.grid-container {
+	display: grid;
+    display: -ms-grid;
+    grid-template-rows: .5fr 2fr .5fr;
+	grid-template-columns: .5fr auto .5fr;
+	justify-content: center;
+    align-items: center;
+    color: #000;
+    width: 100%;
+}
+
+.grid-item {
+    grid-column: 2;
+    grid-row: 2;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.grid-item h2 {
+    font-size: 5rem;
+}
+
+.grid-item h6 {
+
+}
