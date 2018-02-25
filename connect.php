@@ -1,6 +1,6 @@
 <?php
-$servername = "localhost";
-$username = "rafflex";
+$servername = "rafflex.database.windows.net";
+$username = "rafflex@rafflex";
 $password = "RaffleTest2017";
 $databasename = "rafflex";
 // Create connection
