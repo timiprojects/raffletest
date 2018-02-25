@@ -2,7 +2,7 @@
 $servername = "rafflex.database.windows.net";
 $username = "rafflex@rafflex";
 $password = "RaffleTest2017";
-$databasename = "rafflex";
+$databasename = "raffletestdb";
 // Create connection
 $conn = new mysqli($servername, $username, $password, $databasename);
 
