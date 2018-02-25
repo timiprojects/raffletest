@@ -77,7 +77,7 @@
             type : "POST",
             cache : false,
             data : urlString,
-            success: function(response)
+            success: function()
             {
                 window.location = "fill.php?email=" + email_value + "&" + "reference=" + response.reference;
             }
