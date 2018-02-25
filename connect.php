@@ -11,6 +11,6 @@ if (!$conn) {
     die("Connection failed: " . $conn->connect_error());
 }
 else {
-    //print ('connected');
+    print `<script>alert('connected');</script>`;
 }
 ?>
