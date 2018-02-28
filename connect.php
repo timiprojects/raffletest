@@ -1,8 +1,8 @@
 <?php
-$servername = "raffledraw-mysqldbserver.mysql.database.azure.com";
-$username = "raffledbuser@raffledraw-mysqldbserver";
+$servername = "raffleng-mysqldbserver.mysql.database.azure.com";
+$username = "raffleng";
 $password = "RaffleTest2017";
-$databasename = "raffletestdb";
+$databasename = "rafflengdb";
 // Create connection
 $conn = new mysqli($servername, $username, $password, $databasename);
 
