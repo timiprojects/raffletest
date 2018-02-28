@@ -1,6 +1,6 @@
 <?php
 $servername = "raffleng-mysqldbserver.mysql.database.azure.com";
-$username = "raffleng";
+$username = "raffleng@raffleng-mysqldbserver";
 $password = "RaffleTest2017";
 $databasename = "rafflengdb";
 // Create connection
